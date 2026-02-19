@@ -3,6 +3,9 @@
   <h3>A Computer Engineering Graduate passionate about Java & Microservices</h3>
   
   <p>
+    <a href="https://mehmetberkbozkurt.com" target="_blank">
+      <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    </a>
     <a href="mailto:mehmetberkbozkurt18@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
@@ -17,19 +20,3 @@
     </a>
   </p>
 </div>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **[a scalable E-commerce Microservices architecture using Spring Boot & Docker](https://github.com/mberkkk/e-commerce)**
-- 🌱 I’m currently learning **System Design Patterns, Clean Code Principles.**
-- 👯 I’m looking to collaborate on **Open Source Java Projects.**
-
----
-
-<div align="center">
-  <h3>🛠️ Languages and Tools</h3>
-  
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,docker,git,linux,postman,selenium,python" alt="My Skills" />
-  
